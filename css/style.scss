@@ -787,12 +787,15 @@
 		}
 		
 		td {
+			border-left: solid 1px $color-border;
 			padding: 0.75em 0.75em;
+			font-size: 0.9em;
 		}
 		
 		th {
+			background-color: $color-accent3-fg-light;
 			color: $color-fg-bold;
-			font-size: 0.9em;
+			font-size: 1em;
 			font-weight: $font-weight;
 			padding: 0 0.75em 0.75em 0.75em;
 			text-align: left;
@@ -800,6 +803,7 @@
 	
 		thead {
 			border-bottom: solid 2px $color-border;
+			font-size: 1em;
 		}
 		
 		tfoot {
