@@ -773,26 +773,34 @@
 	table {
 		margin: 0 0 $size-element-margin 0;
 		width: 100%;
-    		
-		tbody {
-			tr {
-				border: solid 1px $color-border;
-				border-left: 0;
-				border-right: 0;
-				
-				&:nth-child(2n + 1) {
-					background-color: $color-border-bg;
-				}
+
+		tr {
+			border: thin solid $color-border;
+			border-left: 0;
+			border-right: 0;
+
+			&:nth-child(2n + 1) {
+				background-color: $color-border-bg;
 			}
 		}
-		
+
 		td {
-			border-left: solid 1px $color-border;
+			border-left: thin solid $color-border;
 			padding: 0.75em 0.75em;
 			font-size: 0.9em;
 			text-align: center;
 		}
-		
+
+		&.recommendations {
+			tr:nth-of-type(1) td {
+				font-weight: bold;
+			}
+			tr td:nth-of-type(1) {
+				background: $color-border-bg;
+				font-weight: bold;
+			}
+		}
+
 		th {
 			background-color: $color-accent3-fg-light;
 			color: $color-fg-bold;
@@ -803,12 +811,12 @@
 		}
 	
 		thead {
-			border-bottom: solid 2px $color-border;
+			//border-bottom: solid 2px $color-border;
 			font-size: 1em;
 		}
 		
 		tfoot {
-			border-top: solid 2px $color-border;
+			//border-top: solid 2px $color-border;
 		}
 
 		&.alt {
