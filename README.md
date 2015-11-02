@@ -5,7 +5,7 @@ FFDA website
 ## Dependencies
  - Install a javascript runtime, e.g. nodejs
  - Install bundle by running `gem install bundle`
- - Install the dependencies by running `bundle`
+ - Install the dependencies by running `bundle install --path vendor/bundle`
 
 ## Building
  - Use `bundle exec rake build`. This will build the website to the `_site` directory
