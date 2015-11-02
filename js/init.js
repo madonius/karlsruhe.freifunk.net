@@ -111,4 +111,17 @@
 
 	});
 
+	$(document).ready(function() {
+		$("h1, h2, h3, h4, h5, h6").each(function(i, el) {
+			var $el = $(el);
+			var id = $el.attr('id');
+
+			if($el.attr('id')) {
+				$el.prepend(
+					$("<a />").addClass("header-link").attr("href", "#" + id).html('<i class="fa fa-link"></i>')
+				);
+			}
+		});
+	});
+
 })(jQuery);
