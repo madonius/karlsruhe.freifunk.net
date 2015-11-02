@@ -8,13 +8,13 @@ FFDA website
  - Install the dependencies by running `bundle`
 
 ## Building
- - Use `rake build`. This will build the website to the `_site` directory
+ - Use `bundle exec rake build`. This will build the website to the `_site` directory
 
 ## Serving (to work locally)
- - Use `rake serve`. This watches files for changes and serves the website on http://0.0.0.0:4000/
+ - Use `bundle exec rake serve`. This watches files for changes and serves the website on http://0.0.0.0:4000/
 
 ## Testing
- - Use `rake test`
+ - Use `bundle exec rake test`
 State of the current master branch, powered by Travis-CI:
 [![Build Status](https://travis-ci.org/freifunk-darmstadt/darmstadt.freifunk.net.svg?branch=master)](https://travis-ci.org/freifunk-darmstadt/darmstadt.freifunk.net)
 
