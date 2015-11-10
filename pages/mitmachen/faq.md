@@ -41,3 +41,7 @@ Unsere Empfehlung wäre daher, einen Freifunk-Router an der Quelle hinzustellen 
 Im Normalbetrieb ist auf dem Router nur eine [Statusseite](http://nextnode.ffda) erreichbar. Willst du Änderungen vornehmen, musst du den Router in den Config-Mode versetzen. Hierzu drückst du am hochgefahrenen Router die `WPS/Reset`-Taste so lange, bis alle Lampen kurz aufleuchten und lässt sie dann los. Nach kurzer Zeit sollte die Status-LED charakteristisch blinken (siehe Grafik), du erhälst an einem der LAN-Ports wieder eine IP-Adresse per DHCP und kannst die Konfigurationsseite unter [http://192.168.1.1](http://192.168.1.1) erreichen.
 
 ![Config Mode](https://gluon.readthedocs.org/en/latest/_images/node_configmode.gif)
+
+### Wo kann ich weitere technische Informationen finden?
+
+Auf den Seiten des Freifunkprojekts findest du eine [Technik-FAQ](http://wiki.freifunk.net/FAQ_Technik) mit weiteren Informationen.
