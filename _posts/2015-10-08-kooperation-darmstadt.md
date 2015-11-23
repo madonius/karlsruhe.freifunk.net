@@ -7,7 +7,7 @@ categories: community
 
 **Oberbürgermeister Jochen Partsch begrüßt das Engagement der Initiative – Kooperation beim freien Internetzugang für die Gesamtstadt wird angestrebt**
 
-￼
+
 Die Freifunk-Initiative Darmstadt als Projekt des Chaos Darmstadt e.V. versorgt in Kooperation mit der Wissenschaftsstadt Darmstadt die Notaufnahmeeinrichtung in der Alsfelder Straße und die Erstwohneinrichtung im Donnersbergring mit freiem WLAN.
 Oberbürgermeister Jochen Partsch begrüßt das Engagement der Initiative:
 <!--*-->
