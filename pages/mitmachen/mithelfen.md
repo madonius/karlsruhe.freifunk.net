@@ -11,7 +11,7 @@ Wir sind ständig auf der Suche nach Mithelfern, die uns bei unserer Arbeit unte
 
 ## Mailingliste
 
-Falls du generell interessiert bist mitzuhelfen, kannst du dich auf folgender Mailingliste eintragen, über die wir immer mal wieder Helfer für diverse Aufgaben suchen. Keine Sorge, die Eintragung ist nicht verbindlich und du kannst bei jeder einzelnen Anfrage entscheiden, ob du helfen willst und kannst. 
+Falls du generell interessiert bist mitzuhelfen, kannst du dich auf folgender Mailingliste eintragen, über die wir immer mal wieder Helfer für diverse Aufgaben suchen. Keine Sorge, die Eintragung ist nicht verbindlich und du kannst bei jeder einzelnen Anfrage entscheiden, ob du helfen willst und kannst.
 
 <form action="http://lists.metarheinmain.de/mailman/subscribe/ffda-helfer" target="_blank" method="post">
 	<input type="email" name="email" placeholder="max@mustermann.de" required />
