@@ -18,4 +18,3 @@ Falls du generell interessiert bist mitzuhelfen, kannst du dich auf folgender Ma
 	<br />
 	<input type="submit" name="submit" value="Eintragen" /> <i>(öffnet eine neue Seite)</i>
 </form>
-
