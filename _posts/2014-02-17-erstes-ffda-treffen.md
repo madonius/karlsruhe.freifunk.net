@@ -1,13 +1,23 @@
 ---
 layout: post
-title:  "Erstes FFDA Treffen"
-date:   2014-02-17 00:00:00
+title:  "Neue Freifunk Webseite in KA"
+date:   2016-02-01 00:00:00
 categories: community
 ---
 
-Der [30ste Chaos Communication Congress](https://de.wikipedia.org/wiki/Chaos_Communication_Congress) hat einige Mitglieder des Chaos Darmstadt inspiriert, Freifunk auch in Darmstadt zu etablieren. Auf dem Kongress gab es eine Freifunk-Assembly, wo viele Freifunk Communities zusammen gefunden haben, Fragen beantwortet und Workshops zum Thema angeboten wurden.
+Das ist ein Testpost auf der neuen Webseite von Freifunk Karlsruhe.
 
-![Bild des CDA-Schildes](/images/posts/2014-02-17-cda.jpg "Trollhöhle!! <3")
+Sehr wichtig.
 
 
-Am 13. Februar 2014 hat dann das erste FFDA Treffen in der Trollhöhle des [Chaos Darmstadt e.V.](https://chaos-darmstadt.de/) stattgefunden. Wir waren zu viert (megfault, redhood, hexa und fleaz) und haben angefangen den Aufbau des Netzwerks zu planen.
+Bacon ipsum dolor amet turducken porchetta corned beef ball tip venison ground round shoulder bresaola short loin flank. Jowl ribeye beef tongue filet mignon pork chop pork loin, swine rump. Cupim hamburger kevin ball tip boudin cow biltong. Turkey bresaola prosciutto spare ribs alcatra corned beef filet mignon sirloin tenderloin boudin. Pork belly strip steak jowl, pork chop rump turducken flank bresaola short ribs fatback hamburger alcatra porchetta capicola filet mignon.
+
+
+
+Shoulder shankle leberkas, tri-tip cow jowl ham hock ball tip. Beef bacon landjaeger, leberkas capicola shank pig frankfurter chuck kevin corned beef cupim turkey kielbasa pork belly. Beef meatball boudin doner tongue. Pork chop drumstick shankle ham hock flank picanha strip steak, cupim turkey doner beef sirloin spare ribs kielbasa.
+
+
+
+Boudin leberkas kevin, chuck ball tip drumstick shankle porchetta cow ham beef ribs fatback hamburger tongue jowl. Bacon cupim fatback bresaola kevin leberkas rump pig ham hock ham. Pork chop flank shank sirloin chuck chicken pig shoulder, kevin swine. Sausage pig turducken ball tip. Salami kevin tenderloin landjaeger, chuck hamburger alcatra swine pastrami cupim drumstick ribeye. Biltong capicola andouille, filet mignon swine bacon pig picanha pork chop tongue porchetta.
+
+Spare ribs pork loin swine jowl cow. Biltong meatloaf prosciutto tri-tip shankle landjaeger fatback bresaola tail sirloin bacon venison. Ground round bresaola prosciutto pork chop leberkas jerky tail ribeye. Beef andouille chicken chuck pork chop. Tail picanha turducken, sausage salami pork belly hamburger boudin jowl.

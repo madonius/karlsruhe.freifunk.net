@@ -1,13 +1,13 @@
 # Site settings
-title: Freifunk Darmstadt
-tagline: das freie WLAN-Netzwerk für DA und Umgebung
-email: info@darmstadt.freifunk.net
+title: Freifunk Karlsruhe
+tagline: das freie WLAN-Netzwerk für KA und Umgebung
+email: info@freifunk-karlsruhe.de
 description: > # this means to ignore newlines until "baseurl:"
- Freifunk Darmstadt ist eine lokale Initiative mit dem Ziel, ein WLAN-Netzwerk über Darmstadt aufzuspannen und freien Internetzugang anzubieten.
+ Freifunk Karlsruhe ist eine lokale Initiative mit dem Ziel, ein WLAN-Netzwerk über Karlsruhe aufzuspannen und freien Internetzugang anzubieten.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://darmstadt.freifunk.net" # the base hostname & protocol for your site
-twitter_username: freifunkDA
-github_username:  freifunk-darmstadt
+url: "http://karlsruhe.freifunk.net" # the base hostname & protocol for your site
+twitter_username: FFKarlsruhe
+github_username:  ffka
 
 excerpt_separator: <!--*-->
 
