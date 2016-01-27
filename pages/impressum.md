@@ -7,21 +7,11 @@ permalink: /impressum/
 top_url: /impressum/
 ---
 
-Freifunk Darmstadt ist ein Projekt des [Chaos Darmstadt e.V.](https://chaos-darmstadt.de), der im Vereinsregister des Amtsgerichts Darmstadt unter der Vereinregisternummer 3413 eingetragen ist. Der Verein ist gemeinnützig und finanziert sich über Mitgliedsbeiträge und [Spenden](/mitmachen/spenden/).
+Freifunk Karlsruhe ist eine Domäne des [Freifunk Rheinland e.V.  ](https://freifunk-rheinland.net/).
 
-#### Postanschrift
-> Chaos Darmstadt e.V.\\
-> Wilhelm-Leuschner-Straße 36\\
-> 64293 Darmstadt\\
-> E-Mail: info@chaos-darmstadt.de
+#### Angaben gemäß § 5 TMG
+ Freifunk Karlsruhe (FFKA) <br>
+ c/o Freifunk Rheinland e.V.           
+ Postfach 10 03 54 <br>
+ 41003 Mönchengladbach
 
-#### Bankverbindung
-> Chaos Darmstadt e.V.\\
-> Bank: Sparkasse Darmstadt\\
-> IBAN: DE96 5085 0150 0000 7118 53\\
-> BIC: HELADEF1DAS
-
-#### Pressesprecher
-> Peter Löwenstein\\
-> [+49 151 58800067](tel:+4915158800067) \\
-> <em>(nur für Presseanfragen)</em>
