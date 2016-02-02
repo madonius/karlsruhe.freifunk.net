@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Neue Freifunk Webseite in KA"
+title:  "Neue Freifunk Webseite in Karlsruhe"
 date:   2016-02-01 00:00:00
 categories: community
 ---

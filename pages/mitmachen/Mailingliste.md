@@ -1,10 +1,10 @@
 ---
-title: Mithelfen
+title: Mailingliste
 layout: page
 sub_menu: true
 top_url: /mitmachen/
 sub_weight: 6
-permalink: /mitmachen/mithelfen/
+permalink: /mitmachen/mailingliste/
 ---
 
 Wir sind ständig auf der Suche nach Mithelfern, die uns bei unserer Arbeit unterstützen! Die anfallenden Tätigkeiten sind vielfältig und sehr unterschiedlicher Art. Vom Kabelverlegen über das Aufstellen von Hardware, Gegenlesen von Flyern und Helfen bei Veranstaltungen bis hin zum Verfassen von Texten brauchen wir bei vielen Dingen Unterstützung.
