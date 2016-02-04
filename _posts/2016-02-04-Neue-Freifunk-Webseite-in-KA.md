@@ -14,4 +14,3 @@ Neben den Statischen Informationen wird es ab jetzt auch einen Blog geben, den w
 Wir hoffen die neue Webseite findet anklang. Wenn es fragen gibt, oder ihr Anmerkungen habt was wir noch verbessern können, schreibt uns einfach.
 
 Und nun viel Spaß auf der neuen Freifunk Webseite.
-
