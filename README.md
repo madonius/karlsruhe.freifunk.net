@@ -1,6 +1,6 @@
-FFDA website
+FFKA website
 ============================
-[darmstadt.freifunk.net](http://darmstadt.freifunk.net)
+[karlsruhe.freifunk.net](https://karlsruhe.freifunk.net)
 
 ## Dependencies
  - Install a javascript runtime, e.g. nodejs
@@ -16,7 +16,5 @@ FFDA website
 ## Testing
  - Use `bundle exec rake test`
 State of the current master branch, powered by Travis-CI:
-[![Build Status](https://travis-ci.org/freifunk-darmstadt/darmstadt.freifunk.net.svg?branch=master)](https://travis-ci.org/freifunk-darmstadt/darmstadt.freifunk.net)
+[![Build Status](https://travis-ci.org/ffka/karlsruhe.freifunk.net.svg?branch=master)](https://travis-ci.org/ffka/karlsruhe.freifunk.net)
 
-## Deployment
-Simply `git push` to the master branch. There's a hook that will automatically deploy it to [darmstadt.freifunk.net](darmstadt.freifunk.net)
