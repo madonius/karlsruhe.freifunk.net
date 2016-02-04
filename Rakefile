@@ -10,7 +10,7 @@ end
 
 task :htmlproofer do
   HTML::Proofer.new("./_site",
-                    {:href_ignore => [/http(s?):\/\/(.*)\.ffda/, /^http:\/\/192\.168\..*/]}).run
+                    {:href_ignore => [/http(s?):\/\/(.*)\.ffka/, /^http:\/\/192\.168\..*/]}).run
 end
 
 task :trailing_spaces do
