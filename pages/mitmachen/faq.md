@@ -19,7 +19,7 @@ Freifunk ist eine gemeinschaftliche Bewegung, die einen freien Netzzugang als ge
 
 Freifunk Karlsruhe gehört organisatorisch zum gemeinnützigen Verein “Freifunk Rheinland e.V.”, welcher eigene Netzwerkinfrastruktur betreibt.
 
-Unser Verein ist anderen Telekommunikationsdiensteanbietern praktisch rechtlich gleichgestellt und kann sich in Bezug der Störerhaftung auf das "Providerprivileg" berufen. Unabhängig von der rechtlichen Situation als Telekommunikationsdiensteanbieter sorgen wir mit technischen Maßnahmen dafür, dass die Störerhaltung nicht auf den eigentlichen Betreiber des Routers zurückfällt. 
+Unser Verein ist anderen Telekommunikationsdiensteanbietern praktisch rechtlich gleichgestellt und kann sich in Bezug der Störerhaftung auf das "Providerprivileg" berufen. Unabhängig von der rechtlichen Situation als Telekommunikationsdiensteanbieter sorgen wir mit technischen Maßnahmen dafür, dass die Störerhaltung nicht auf den eigentlichen Betreiber des Routers zurückfällt.
 
 ### Benötige ich einen Router für 2,4 GHz oder 5 GHz?
 
