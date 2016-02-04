@@ -15,6 +15,12 @@ Schau mal auf der [Karte](../../karte/) nach. Wenn es bei dir noch keinen Freifu
 
 Freifunk ist eine gemeinschaftliche Bewegung, die einen freien Netzzugang als gesellschaftlichen Grundstein sieht. Wir möchten zudem den derzeitigen rechtlichen (Störerhaftung) sowie datenschutzrechtlichen (Kundendaten sammeln) Problematiken aus dem Weg gehen. Die Infrastruktur wird ausschließlich über Spenden finanziert.
 
+### Muss als Freifunker Angst vor Abmahungen haben?
+
+Freifunk Karlsruhe gehört organisatorisch zum gemeinnützigen Verein “Freifunk Rheinland e.V.”, welcher eigene Netzwerkinfrastruktur betreibt.
+
+Unser Verein ist anderen Telekommunikationsdiensteanbietern praktisch rechtlich gleichgestellt und kann sich in Bezug der Störerhaftung auf das "Providerprivileg" berufen. Unabhängig von der rechtlichen Situation als Telekommunikationsdiensteanbieter sorgen wir mit technischen Maßnahmen dafür, dass die Störerhaltung nicht auf den eigentlichen Betreiber des Routers zurückfällt. 
+
 ### Benötige ich einen Router für 2,4 GHz oder 5 GHz?
 
 Jedes Endgerät heutzutage funkt mindestens auf dem 2,4 GHz Band, modernere Modelle können außerdem das 5 GHz Band nutzen, auf dem, wenn nicht allzu viel Sichtbehinderung vorliegt, höhere Datenraten erreicht werden können.
