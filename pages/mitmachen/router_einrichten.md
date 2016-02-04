@@ -23,7 +23,7 @@ permalink: /mitmachen/router-einrichten/
 
 ### Konfigurationsmodus
 
-Dein Router sollte nun in den Konfigurationsmodus starten. Du erhälst erneut IP-Adresse per DHCP, dein Freifunk-Router ist nun unter [http://192.168.1.1](http://192.168.1.1) in deinem Browser erreichbar.
+Dein Router sollte nun in den Konfigurationsmodus starten. Du erhältst erneut IP-Adresse per DHCP, dein Freifunk-Router ist nun unter [http://192.168.1.1](http://192.168.1.1) in deinem Browser erreichbar.
 
 ### Den Router konfigurieren
 
@@ -33,9 +33,9 @@ Dein Router sollte nun in den Konfigurationsmodus starten. Du erhälst erneut IP
   - Am PC: über [unsere Karte](https://karlsruhe.freifunk.net/meshviewer) (Zuerst Pin klicken, dann Doppelklick auf die Position des Routers)
   - Android: [GPS Status & Toolbox](https://play.google.com/store/apps/details?id=com.eclipsim.gpsstatus2)
 4. Trage eine funktionierende Kontaktmöglichkeit an. Deine Adresse wird ausschließlich zur Kontaktaufnahme durch uns genutzt und niemals an Dritte weitergegeben.
-5. Nach einem Klick auf `Speichern und Neustarten` siehst du den Öffentlichen Schlüssel, damit ist dein Router automatisch freigeschaltet.
-	> &#35; ffka-Wahlname \\
-	> key "f1d2d2f924e986ac86fdf7b36c94bcdf32beec15";
+5. Nach einem Klick auf `Speichern und Neustarten` siehst du den Öffentlichen Schlüssel, damit ist dein Router automatisch freigeschaltet. <br />
+`ffka-Wahlname ` <br />
+`key "f1d2d2f924e986ac86fdf7b36c94bcdf32beec15"` <br />
 
 Danach startet der Router neu, sendet das WLAN `karlsruhe.freifunk.net` aus und versucht sich per Mesh mit anderen Nachbarn zu verbinden. Falls du keine Mesh-Nachbarn hast, ist eine Verbindung mit dem WLAN-Netzwerk erst dann möglich, sobald der Schlüssel auf den Gateways eingetragen wurde. Darüber informieren wir dich zeitnah mit einer Begrüßungs-Email.
 
