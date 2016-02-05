@@ -15,7 +15,7 @@ Schau mal auf der [Karte](../../karte/) nach. Wenn es bei dir noch keinen Freifu
 
 Freifunk ist eine gemeinschaftliche Bewegung, die einen freien Netzzugang als gesellschaftlichen Grundstein sieht. Wir möchten zudem den derzeitigen rechtlichen (Störerhaftung) sowie datenschutzrechtlichen (Kundendaten sammeln) Problematiken aus dem Weg gehen. Die Infrastruktur wird ausschließlich über Spenden finanziert.
 
-### Muss als Freifunker Angst vor Abmahungen haben?
+### Muss ich als Freifunker Angst vor Abmahnungen haben?
 
 Freifunk Karlsruhe gehört organisatorisch zum gemeinnützigen Verein “Freifunk Rheinland e.V.”, welcher eigene Netzwerkinfrastruktur betreibt.
 
@@ -44,7 +44,7 @@ Unsere Empfehlung wäre daher, einen Freifunk-Router an der Quelle hinzustellen 
 
 ### Wie kann ich nachträglich Änderungen am Router vornehmen?
 
-Im Normalbetrieb ist auf dem Router nur eine [Statusseite](http://nextnode.ffka) erreichbar. Willst du Änderungen vornehmen, musst du den Router in den Config-Mode versetzen. Hierzu drückst du am hochgefahrenen Router die `WPS/Reset`-Taste so lange, bis alle Lampen kurz aufleuchten und lässt sie dann los. Nach kurzer Zeit sollte die Status-LED charakteristisch blinken (siehe Grafik), du erhälst an einem der LAN-Ports wieder eine IP-Adresse per DHCP und kannst die Konfigurationsseite unter [http://192.168.1.1](http://192.168.1.1) erreichen.
+Im Normalbetrieb ist auf dem Router nur eine [Statusseite](http://nextnode.ffka) erreichbar. Willst du Änderungen vornehmen, musst du den Router in den Config-Mode versetzen. Hierzu drückst du am hochgefahrenen Router die `WPS/Reset`-Taste so lange, bis alle Lampen kurz aufleuchten und lässt sie dann los. Nach kurzer Zeit sollte die Status-LED charakteristisch blinken (siehe Grafik), du erhältst an einem der LAN-Ports wieder eine IP-Adresse per DHCP und kannst die Konfigurationsseite unter [http://192.168.1.1](http://192.168.1.1) erreichen.
 
 ![Config Mode](https://gluon.readthedocs.org/en/latest/_images/node_configmode.gif)
 
