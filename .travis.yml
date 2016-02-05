@@ -17,5 +17,7 @@ notifications:
     channels:
       - "irc.hackint.eu#ffka"
     use_notice: true
+    on_success: change
+    on_failure: always
 #after_success:
 #  - curl https://karlsruhe.freifunk.net/deploy
