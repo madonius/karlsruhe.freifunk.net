@@ -10,6 +10,11 @@ layout:
 <!DOCTYPE html>
 <html>
   {% include head-kontakt-map.html %}
+  <script src="{{ "/js/eyecandy.js" | prepend: site.baseurl }}"></script>
+  <script src="{{ "/js/TweenMax.min.js" | prepend: site.baseurl }}"></script>
+  <script src="{{ "/js/moment.min.js" | prepend: site.baseurl }}"></script>
+  <script src="{{ "/js/moment-with-locales.min.js" | prepend: site.baseurl }}"></script>
+  <script src="{{ "/js/moment-recur.js" | prepend: site.baseurl }}"></script>
 
   <body onLoad="mapinit();">
     {% include header.html %}
@@ -23,10 +28,10 @@ layout:
 		<div class="box" id="treffen">
 			<h3>Treffen</h3>
 			<div id="map" style="height: 30em; margin: 1em 0; width: 45%; float: right; margin-left: 2em"></div>
-			<p>Wir treffen uns jede zweite Woche donnerstags in den Räumen des <a href="https://entropia.de/">Entropia e.V.</a>, in der Steinstraße 30. </p>
-			<p>Das nächste Treffen ist am 04.Februar.</p>
+			<p>Wir treffen uns jede zweite Woche donnerstags in den Räumen des <a href="https://entropia.de/">Entropia e.V.</a>, in der Steinstraße 23. </p>
+			<p>Das nächste Treffen findet <strong><span id="nextMeetingTime"></span></strong> statt.</p>
 			<p>Wenn Du neu bei Freifunk bist, bereits einen Router einrichten möchtest oder einfach nur mehr über das Projekt erfahren willst, komm' einfach zu einem persönlichen Gespräch um <strong>19:30 Uhr</strong> vorbei. Wir freuen uns auf deinen Besuch!</p>
-			<p>Ab <strong>20 Uhr</strong> findet dann unser Plenum statt, in dem wir aktuelle Entwicklungen diskutieren und unser weiteres Vorgehen koordinieren.
+			<p>Ab <strong>20 Uhr</strong> findet dann unsere Diskusionsrunde statt, in dem wir aktuelle Entwicklungen diskutieren und unser weiteres Vorgehen koordinieren.
 
 			<h4>Anfahrt</h4>
 			<ul>
@@ -50,6 +55,28 @@ layout:
 			</ul>
 		</div>
     </section>
+    
+   <script>
+	   moment.locale('de');
+	   interval = moment( "2016-02-04" ).recur().every(2).weeks();
+	   now = moment(new Date());
+	   interval.fromDate(new Date());
+	   nextDate = moment(new Date(interval.next(1)));
+	   
+	   if (nextDate.isSame(now, 'day')) {
+		   nextDateStr = "heute";
+	   } else {
+		   
+		   nextDateStr = "";
+		   if (nextDate.diff(moment(), 'day') < 7) {
+			   nextDateStr += "kommenden ";
+			}
+			
+		   nextDateStr += nextDate.format("dddd") + ", den " + nextDate.format("DD. MMMM");
+	   }
+	   
+	   $('#nextMeetingTime').text(nextDateStr);
+  </script>
 
     {% include footer.html %}
 
