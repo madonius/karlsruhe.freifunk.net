@@ -4,3 +4,5 @@
 *.swp
 /.bundle
 /vendor
+
+tmp/.htmlproofer/cache.log
