@@ -66,11 +66,11 @@ top_url: /news/
 	   now = moment(new Date());
 	   interval.fromDate(new Date());
 	   nextDate = moment(new Date(interval.next(1)));
-	   
+	
 	   if (nextDate.isSame(now, 'day')) {
 		   nextDateStr = "heute";
 	   } else {
-		   
+		
 		   nextDateStr = "";
 		   if (nextDate.diff(moment(), 'day') < 7) {
 			   nextDateStr += "kommenden ";
