@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Achtung beim kauf neuer Freifunk-Router"
+title:  "Achtung beim Kauf neuer Freifunk-Router"
 date:   2016-02-19 00:00:00
 categories: community
 ---
