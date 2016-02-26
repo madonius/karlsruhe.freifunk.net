@@ -8,8 +8,8 @@ categories: community
 Eine neue Webseite für den Freifunk in Karlsruhe
 
 Der Freifunk Karlsruhe hat eine neue Webseite. Vieles wird dir bekannt vorkommen, vieles ist aber auch neu.
-Neben den Statischen Informationen wird es ab jetzt auch einen Blog geben, den wir regelmäßig pflegen wollen.
+Neben den statischen Informationen wird es ab jetzt auch einen Blog geben, den wir regelmäßig pflegen wollen.
 
-Wir hoffen die neue Webseite findet anklang. Wenn es fragen gibt, oder ihr Anmerkungen habt was wir noch verbessern können, schreibt uns einfach.
+Wir hoffen, die neue Webseite findet Anklang. Wenn es Fragen gibt oder ihr Anmerkungen habt, was wir noch verbessern können, schreibt uns einfach.
 
 Und nun viel Spaß auf der neuen Freifunk Webseite.
