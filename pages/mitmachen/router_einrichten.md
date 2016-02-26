@@ -17,9 +17,9 @@ permalink: /mitmachen/router-einrichten/
 ### Installiere das Freifunk-Image
 
 1. Öffne das Webinterface deines Routers in deinem Browser.
-2. Folge den Anweisungen im Handbuch deines Routers um die Firmware zu aktualisieren.
+2. Folge den Anweisungen im Handbuch deines Routers, um die Firmware zu aktualisieren.
 3. Nutze nun das zuvor heruntergeladene Firmware-Image.
-4. Warte bis der Router wieder gestartet ist.
+4. Warte, bis der Router wieder gestartet ist.
 
 ### Konfigurationsmodus
 
@@ -37,16 +37,16 @@ Dein Router sollte nun in den Konfigurationsmodus starten. Du erhältst erneut e
 `ffka-Wahlname ` <br />
 `key "f1d2d2f924e986ac86fdf7b36c94bcdf32beec15"` <br />
 
-Danach startet der Router neu, sendet das WLAN `karlsruhe.freifunk.net` aus und versucht sich per Mesh mit anderen Nachbarn zu verbinden. Falls du keine Mesh-Nachbarn hast, ist eine Verbindung mit dem WLAN-Netzwerk erst dann möglich, sobald der Schlüssel auf den Gateways eingetragen wurde. Darüber informieren wir dich zeitnah mit einer Begrüßungs-Email.
+Danach startet der Router neu, sendet das WLAN `karlsruhe.freifunk.net` aus und versucht, sich per Mesh mit anderen Nachbarn zu verbinden. Falls du keine Mesh-Nachbarn hast, ist eine Verbindung mit dem WLAN-Netzwerk erst dann möglich, sobald der Schlüssel auf den Gateways eingetragen wurde. Darüber informieren wir dich zeitnah mit einer Begrüßungs-Email.
 
 Der Router ist jetzt im Normalbetrieb und nicht mehr unter der Adresse [http://192.168.1.1](http://192.168.1.1) erreichbar, für weitere Änderungen siehe [FAQ](/mitmachen/faq/).
 
 ### Den Router aufstellen
-Als Standort empfehlen sich Fenster, Balkone oder Dächer. Je näher er der Außenwelt ist, desto wahrscheinlicher ist es, dass er für Passanten erreichbar ist und sich mit anderen Routern verbindet um eine [Meshverbindung](https://de.wikipedia.org/wiki/Vermaschtes_Netz) zu bilden.
+Als Standort empfehlen sich Fenster, Balkone oder Dächer. Je näher er der Außenwelt ist, desto wahrscheinlicher ist es, dass er für Passanten erreichbar ist und sich mit anderen Routern verbindet, um eine [Meshverbindung](https://de.wikipedia.org/wiki/Vermaschtes_Netz) zu bilden.
 
 ### Verbinde den Router mit dem Netzwerk
 
-Wenn du deinen Internetzugang zur Verfügung stellen möchtest, verbinde jetzt den blauen WAN-Anschluss deines Freifunk-Router mit deinem vorhandenen Internetrouter. Möchtest oder kannst du das nicht, bist du auf andere Freifunker in deiner Nähe angewiesen um eine Verbindung zum Freifunk-Netzwerk und ins Internet herzustellen.
+Wenn du deinen Internetzugang zur Verfügung stellen möchtest, verbinde jetzt den blauen WAN-Anschluss deines Freifunk-Router mit deinem vorhandenen Internetrouter. Möchtest oder kannst du das nicht, bist du auf andere Freifunker in deiner Nähe angewiesen, um eine Verbindung zum Freifunk-Netzwerk und ins Internet herzustellen.
 
 ### Fertig
 
