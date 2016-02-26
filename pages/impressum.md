@@ -16,9 +16,9 @@ Freifunk Karlsruhe ist eine Domäne des [Freifunk Rheinland e.V.  ](https://frei
  41003 Mönchengladbach
 
 #### Vertreten durch den Vorstand
-Vorsitzender: Philip Berndroth, Essen
-stellv. Vorsitzender: Reiner Gutowski, Mönchengladbach
-Schatzmeisterin: Doris Kroll-Hartge, Mönchengladbach
+Vorsitzender: Philip Berndroth, Essen <br>
+stellv. Vorsitzender: Reiner Gutowski, Mönchengladbach <br>
+Schatzmeisterin: Doris Kroll-Hartge, Mönchengladbach <br>
 
 #### Registereintrag
 
