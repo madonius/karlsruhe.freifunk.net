@@ -19,7 +19,7 @@ Freifunk ist eine gemeinschaftliche Bewegung, die einen freien Netzzugang als ge
 
 Freifunk Karlsruhe gehört organisatorisch zum gemeinnützigen Verein “Freifunk Rheinland e.V.”, welcher eigene Netzwerkinfrastruktur betreibt.
 
-Unser Verein ist anderen Telekommunikationsdiensteanbietern praktisch rechtlich gleichgestellt und kann sich in Bezug der Störerhaftung auf das "Providerprivileg" berufen. Unabhängig von der rechtlichen Situation als Telekommunikationsdiensteanbieter sorgen wir mit technischen Maßnahmen dafür, dass die Störerhaltung nicht auf den eigentlichen Betreiber des Routers zurückfällt.
+Unser Verein ist anderen Telekommunikationsdiensteanbietern (ISP) praktisch rechtlich gleichgestellt und kann sich in Bezug der Störerhaftung auf das "Providerprivileg" berufen. Unabhängig von der rechtlichen Situation als Telekommunikationsdiensteanbieter sorgen wir mit technischen Maßnahmen dafür, dass die Störerhaftung nicht auf den eigentlichen Betreiber des Routers zurückfällt.
 
 ### Benötige ich einen Router für 2,4 GHz oder 5 GHz?
 
@@ -44,7 +44,7 @@ Unsere Empfehlung wäre daher, einen Freifunk-Router an der Quelle hinzustellen 
 
 ### Wie kann ich nachträglich Änderungen am Router vornehmen?
 
-Im Normalbetrieb ist auf dem Router nur eine [Statusseite](http://nextnode.ffka) erreichbar. Willst du Änderungen vornehmen, musst du den Router in den Config-Mode versetzen. Hierzu drückst du am hochgefahrenen Router die `WPS/Reset`-Taste so lange, bis alle Lampen kurz aufleuchten und lässt sie dann los. Nach kurzer Zeit sollte die Status-LED charakteristisch blinken (siehe Grafik), du erhältst an einem der LAN-Ports wieder eine IP-Adresse per DHCP und kannst die Konfigurationsseite unter [http://192.168.1.1](http://192.168.1.1) erreichen.
+Im Normalbetrieb ist auf dem Router nur eine [Statusseite](http://nextnode.ffka) erreichbar. Willst du Änderungen vornehmen, musst du den Router in den Config-Mode versetzen. Hierzu drückst du am hochgefahrenen Router die `WPS/Reset`-Taste so lange, bis alle Lampen kurz aufleuchten, und lässt sie dann los. Nach kurzer Zeit sollte die Status-LED charakteristisch blinken (siehe Grafik). Du erhältst nun an einem der LAN-Ports wieder eine IP-Adresse per DHCP und kannst die Konfigurationsseite unter [http://192.168.1.1](http://192.168.1.1) erreichen.
 
 ![Config Mode](https://gluon.readthedocs.org/en/latest/_images/node_configmode.gif)
 
