@@ -21,7 +21,7 @@ stellv. Vorsitzender: Reiner Gutowski, Mönchengladbach <br>
 Schatzmeisterin: Doris Kroll-Hartge, Mönchengladbach <br>
 
 #### Registereintrag
-Registergericht: Amtsgericht Düsseldor <br>
+Registergericht: Amtsgericht Düsseldorf <br>
 Registernummer: VR 10563
 
 
