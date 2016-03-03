@@ -9,6 +9,7 @@ categories: community
 
 Entgegen der ursprünglichen Meldung, dass Fremdfirmware generell ausgeschlossen würde und so unter anderem das Aufspielen der Freifunk-Firmware nicht mehr möglich wäre, stellt TP-Link nun klar: "In neuen FW-Versionen wird lediglich die Länderauswahl für WLAN-Einstellungen entfernt. Keine weiteren Veränderungen. " [0] Das Einspielen alternativer Firmware soll weiterhin möglich sein [1].
 Wie die Umsetzung im Detail aussieht ist noch nicht klar und bleibt abzuwarten [2].
+<!--*-->
 
 [0]: https://twitter.com/TPLINKDE/status/700658775728861186
 [1]: https://twitter.com/TPLINKDE/status/700706529897394177
