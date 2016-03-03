@@ -37,7 +37,7 @@ Dein Router sollte nun in den Konfigurationsmodus starten. Du erhältst erneut e
 `ffka-Wahlname ` <br />
 `key "f1d2d2f924e986ac86fdf7b36c94bcdf32beec15"` <br />
 
-Danach startet der Router neu, sendet das WLAN `karlsruhe.freifunk.net` aus und versucht, sich per Mesh mit anderen Nachbarn zu verbinden. Falls du keine Mesh-Nachbarn hast, ist eine Verbindung mit dem WLAN-Netzwerk erst dann möglich, sobald sich der neue Freifunk-Knoten mit unserem `Mesh-VPN` verbunden hat. 
+Danach startet der Router neu, sendet das WLAN `karlsruhe.freifunk.net` aus und versucht, sich per Mesh mit anderen Nachbarn zu verbinden. Falls du keine Mesh-Nachbarn hast, ist eine Verbindung mit dem WLAN-Netzwerk erst dann möglich, sobald sich der neue Freifunk-Knoten mit unserem `Mesh-VPN` verbunden hat.
 
 Der Router ist jetzt im Normalbetrieb und nicht mehr unter der Adresse [http://192.168.1.1](http://192.168.1.1) erreichbar, für weitere Änderungen siehe [FAQ](/mitmachen/faq/).
 
