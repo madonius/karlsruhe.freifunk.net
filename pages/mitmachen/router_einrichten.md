@@ -37,7 +37,7 @@ Dein Router sollte nun in den Konfigurationsmodus starten. Du erhältst erneut e
 `ffka-Wahlname ` <br />
 `key "f1d2d2f924e986ac86fdf7b36c94bcdf32beec15"` <br />
 
-Danach startet der Router neu, sendet das WLAN `karlsruhe.freifunk.net` aus und versucht, sich per Mesh mit anderen Nachbarn zu verbinden. Falls du keine Mesh-Nachbarn hast, ist eine Verbindung mit dem WLAN-Netzwerk erst dann möglich, sobald der Schlüssel auf den Gateways eingetragen wurde. Darüber informieren wir dich zeitnah mit einer Begrüßungs-Email.
+Danach startet der Router neu, sendet das WLAN `karlsruhe.freifunk.net` aus und versucht, sich per Mesh mit anderen Nachbarn zu verbinden. Falls du keine Mesh-Nachbarn hast, ist eine Verbindung mit dem WLAN-Netzwerk erst dann möglich, sobald sich der neue Freifunk-Knoten mit unserem `Mesh-VPN` verbunden hat. 
 
 Der Router ist jetzt im Normalbetrieb und nicht mehr unter der Adresse [http://192.168.1.1](http://192.168.1.1) erreichbar, für weitere Änderungen siehe [FAQ](/mitmachen/faq/).
 
@@ -52,4 +52,4 @@ Wenn du deinen Internetzugang zur Verfügung stellen möchtest, verbinde jetzt d
 
 Super, du hast es geschafft. Dein Freifunk-Knoten funktioniert jetzt und sollte, wenn du GPS-Koordinaten angegeben hast, in Kürze auf der [Karte](https://karlsruhe.freifunk.net/meshviewer/) erscheinen.
 
-Außerdem haben wir für dich einen [Beipackzettel](../..//images/freifunk_karlsruhe_beipackzettel_a5_du.pdf) vorbereitet, auf dem alle wichtigen Punkte noch einmal für dich zusammen gefasst sind.
+Außerdem haben wir für dich einen [Beipackzettel](../..//images/freifunk_karlsruhe_beipackzettel_a5_du.pdf) vorbereitet, auf dem alle wichtigen Punkte noch einmal zusammen gefasst sind.
