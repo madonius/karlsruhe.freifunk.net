@@ -7,15 +7,15 @@ permalink: /impressum/
 top_url: /impressum/
 ---
 
-Freifunk Karlsruhe ist eine Domäne des [Freifunk Rheinland e.V.  ](https://freifunk-rheinland.net/).
+Freifunk Karlsruhe ist Teil des [Freifunk Rheinland e.V.  ](https://freifunk-rheinland.net/).
 
 ## Angaben gemäß § 5 TMG und § 55 RStV
- Freifunk Karlsruhe (FFKA) <br>
- c/o Freifunk Rheinland e.V. <br>
+ Freifunk Karlsruhe <br>
+ Freifunk Rheinland e.V. <br>
  Postfach 10 03 54 <br>
  41003 Mönchengladbach
 
-#### Vertreten durch den Vorstand
+#### vertreten durch den Vorstand des Freifunk Rheinland e.V.
 Vorsitzender: Philip Berndroth, Essen <br>
 stellv. Vorsitzender: Reiner Gutowski, Mönchengladbach <br>
 Schatzmeisterin: Doris Kroll-Hartge, Mönchengladbach <br>
