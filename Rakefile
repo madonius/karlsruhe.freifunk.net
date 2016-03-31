@@ -1,4 +1,4 @@
-require 'html/proofer'
+require 'html-proofer'
 
 task :build do
   sh "bundle exec jekyll build"
@@ -9,7 +9,7 @@ task :serve do
 end
 
 task :htmlproofer do
-  HTML::Proofer.new("./_site",
+  HTMLProofer.check_directory("./_site",
                     {:url_ignore => [/http(s?):\/\/(.*)\.ffka/, /^http:\/\/192\.168\..*/, "https://lists.bl0rg.net/cgi-bin/mailman/listinfo/freifunk-ka"]}).run
 end
 
