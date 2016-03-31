@@ -12,7 +12,7 @@ Das unserer Firmware zugrundeliegenden Gluon-Framework wurde vor etwa 2 Wochen i
 Nach einer Beta-Phase basiert jetzt auch unsere stabile Firmware auf dieser Version.
 
 Die markanteste Änderung die euch sicher ins Auge fällt, ist die neue Übersichtsseite zum eigenen Router.
-Wer sich die Seite anschauen möchte, findet hier die Seite des Freifunk Routers im [Entropia](http://[2a03:2260:a:b:eade:27ff:fe65:9ac9]). 
+Wer sich die Seite anschauen möchte, findet hier die Seite des Freifunk Routers im [Entropia](http://[2a03:2260:a:b:eade:27ff:fe65:9ac9]).
 
 Folgende Hardware wird jetzt außerdem unterstützt:
 
@@ -37,13 +37,12 @@ Folgende Hardware wird jetzt außerdem unterstützt:
 - Western Digital
 	- My Net N600
 	- My Net N750
-	
-	
-Alle weitern Änderungen findet ihr auf der Seite von [Gluon](http://gluon.readthedocs.org/en/v2016.1.2/releases/v2016.1.html).	
-	
-Zusätzlich wird jetzt nur noch ein VPN-Tunnel aufgebaut, um so unsere Server etwas zu entlasten.	
+
+
+Alle weitern Änderungen findet ihr auf der Seite von [Gluon](http://gluon.readthedocs.org/en/v2016.1.2/releases/v2016.1.html).
+
+Zusätzlich wird jetzt nur noch ein VPN-Tunnel aufgebaut, um so unsere Server etwas zu entlasten.
 
 Das Automatische Update ist bereits im Gange und unsere Firmware Seite wurde aktualisiert.
 
 Danke, dass ihr freifunkt und viel Spaß mit der neuen Firmware wünscht euch eure Firmware Bäckerei.
-
