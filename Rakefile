@@ -10,7 +10,7 @@ end
 
 task :htmlproofer do
   HTMLProofer.check_directory("./_site",
-                    {:url_ignore => [/http(s?):\/\/(.*)\.ffka/, /^http:\/\/192\.168\..*/, "https://lists.bl0rg.net/cgi-bin/mailman/listinfo/freifunk-ka", "http://[2a03:2260:a:b:eade:27ff:fe65:9ac9]/"]}).run
+                    {:url_ignore => [/http(s?):\/\/(.*)\.ffka/, /^http:\/\/192\.168\..*/, "https://lists.bl0rg.net/cgi-bin/mailman/listinfo/freifunk-ka", /https?\:\/\/\[([0-9a-f]{0,4}\:{1,2})+[0-9a-f]{0,4}\]\S*/]}).run
 end
 
 task :trailing_spaces do
