@@ -5,16 +5,16 @@ date:   2016-03-07 00:00:00
 categories: community
 ---
 
-Es gibt neues aus der Firmware Bäckerei. Wir haben die nächste Version unserer stabilen Firmware veröffentlicht.
-Die wichtigste gleich vorweg. Der TP-Link 841n v10 wird endlich von uns unterstützt.
+Es gibt neues aus der Firmware Bäckerei: Wir haben die nächste Version unserer stabilen Firmware veröffentlicht.
+Die wichtigste Neuerung gleich vorweg. Der TP-Link 841n v10 wird endlich von uns unterstützt.
 
-Das unserer Firmware zugrundeliegenden Gluon-Framework vor etwa 2 Wochen in der Version v2016.1 veröffentlicht.
-Nach einer Beta-Phase, basiert jetzt auch unsere stabile Firmware auf dieser Version.
+Das unserer Firmware zugrundeliegenden Gluon-Framework wurde vor etwa 2 Wochen in der Version v2016.1 veröffentlicht.
+Nach einer Beta-Phase basiert jetzt auch unsere stabile Firmware auf dieser Version.
 
 Die markanteste Änderung die euch sicher ins Auge fällt, ist die neue Übersichtsseite zum eigenen Router.
 Wer sich die Seite anschauen möchte, findet hier die Seite des Freifunk Routers im [Entropia](http://[2a03:2260:a:b:eade:27ff:fe65:9ac9]). 
 
-Folgende Hardware wird jetzt ausserdem unterstützt:
+Folgende Hardware wird jetzt außerdem unterstützt:
 
 - Buffalo
 	- WZR-HP-G300NH
@@ -41,9 +41,9 @@ Folgende Hardware wird jetzt ausserdem unterstützt:
 	
 Alle weitern Änderungen findet ihr auf der Seite von [Gluon](http://gluon.readthedocs.org/en/v2016.1.2/releases/v2016.1.html).	
 	
-Als eigene Änderung wird jetzt nur noch ein VPN-Tunnel aufgebaut, um so unsere Server etwas zu entlasten.	
+Zusätzlich wird jetzt nur noch ein VPN-Tunnel aufgebaut, um so unsere Server etwas zu entlasten.	
 
 Das Automatische Update ist bereits im Gange und unsere Firmware Seite wurde aktualisiert.
 
-Danke das ihr freifunkt und viel Spaß mit der neuen Firmware wünscht euch eure Firmware Bäckerei.
+Danke, dass ihr freifunkt und viel Spaß mit der neuen Firmware wünscht euch eure Firmware Bäckerei.
 
