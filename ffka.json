@@ -1,0 +1,51 @@
+{
+  "name": "Freifunk Karlsruhe",
+  "url": "http://www.freifunk-karlsruhe.de",
+  "location": {
+    "city": "Karlsruhe",
+    "country": "DE",
+    "lat": 49.00921,
+    "lon": 8.403951,
+    "address": {
+      "Name": "Entropia",
+      "Street": "Steinstrasse 23",
+      "Zipcode": "76133"
+    }
+  },
+  "state": {
+    "nodes": 303,
+    "lastchange": "2015-11-16T11:58:01.844Z",
+    "focus": []
+  },
+  "contact": {
+    "irc": "irc://irc.hackint.org/ffka",
+    "ml": "freifunk-ka@entropia.de"
+  },
+  "timeline": [
+    {
+      "description": "birth",
+      "timestamp": "2014-06-20"
+    }
+  ],
+  "nodeMaps": [
+    {
+      "url": "https://karlsruhe.freifunk.net/meshviewer/",
+      "interval": "hourly",
+      "technicalType": "meshviewer",
+      "mapType": "geographical"
+    }
+  ],
+  "techDetails": {
+    "firmware": {
+      "name": "gluon"
+    },
+    "routing": [
+      "batman-adv"
+    ],
+    "updatemode": [
+      "autoupdate"
+    ],
+    "legals": []
+  },
+  "api": "0.4.11"
+}
