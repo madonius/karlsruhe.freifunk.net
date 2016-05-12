@@ -13,7 +13,7 @@ Nach einer Beta-Phase basiert jetzt auch unsere stabile Firmware auf dieser Vers
 
 Die markanteste Änderung die euch sicher ins Auge fällt, ist die neue Übersichtsseite zum eigenen Router.
 Wer sich die Seite anschauen möchte, findet hier die Seite des Freifunk Routers im [Entropia](http://[2a03:2260:a:b:eade:27ff:fe65:9ac9]).
-
+<!--*-->
 Folgende Hardware wird jetzt außerdem unterstützt:
 
 - Buffalo
