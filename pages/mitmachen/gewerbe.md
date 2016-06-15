@@ -7,7 +7,7 @@ sub_weight: 6
 permalink: /mitmachen/informationen-fuer-gewerbetreibende-und-vereine/
 ---
 
-## Informationen für gewerbetreibende und Vereine
+## Informationen für Gewerbetreibende und Vereine
 
 Sie sind Betreiber eines Cafés, einer Arztpraxis, eines Vereinsheims oder einer anderen gewerblichen Immobilie mit Kundenverkehr und möchten Ihren Besuchern einen freien und unbeschränkten Zugang zum Internet ermöglichen? Freifunk stellt die Alternative zu kommerziellen Anbietern mit Gewinnabsicht dar. Wir sind eine gemeinnützige Initiative und sind am Aufbau eines gemeinschaftlich betriebenen Datennetzes interessiert. Im folgenden finden sich weitere Informationen zu Freifunk im Kontext des Aufbaues in Ihren Räumlichkeiten.
 
