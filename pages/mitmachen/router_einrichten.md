@@ -10,7 +10,7 @@ permalink: /mitmachen/router-einrichten/
 ### Den Router anschließen
 
 
-1. Lade das passende Erstinstallations-Firmware-Image für deinen Router [von unserer Seite](https://karlsruhe.freifunk.net/firmware) herunter.
+1. Lade das passende Erstinstallations-Firmware-Image für deinen Router [von unserer Seite](https://firmware.karlsruhe.freifunk.net) herunter.
 2. Verbinde deinen Computer mit einem der gelben LAN-Anschlüsse des Routers.
 3. Dein Computer erhält nun automatisch via DHCP eine IP-Adresse.
 
