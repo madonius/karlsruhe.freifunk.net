@@ -50,4 +50,4 @@ Im Normalbetrieb ist auf dem Router nur eine [Statusseite](http://nextnode.ffka)
 
 ### Wo kann ich weitere technische Informationen finden?
 
-Auf den Seiten des Freifunkprojekts findest du eine [Technik-FAQ](http://wiki.freifunk.net/FAQ_Technik) mit weiteren Informationen.
+Auf den Seiten des Freifunkprojekts findest du eine [Technik-FAQ](https://wiki.freifunk.net/FAQ_Technik) mit weiteren Informationen.
