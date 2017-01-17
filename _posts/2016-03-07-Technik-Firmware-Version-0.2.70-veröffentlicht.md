@@ -39,7 +39,7 @@ Folgende Hardware wird jetzt außerdem unterstützt:
 	- My Net N750
 
 
-Alle weitern Änderungen findet ihr auf der Seite von [Gluon](http://gluon.readthedocs.org/en/v2016.1.2/releases/v2016.1.html).
+Alle weitern Änderungen findet ihr auf der Seite von [Gluon](https://gluon.readthedocs.io/en/v2016.1.2/releases/v2016.1.html).
 
 Zusätzlich wird jetzt nur noch ein VPN-Tunnel aufgebaut, um so unsere Server etwas zu entlasten.
 

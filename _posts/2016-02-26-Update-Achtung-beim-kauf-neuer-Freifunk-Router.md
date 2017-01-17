@@ -13,7 +13,7 @@ Wie die Umsetzung im Detail aussieht ist noch nicht klar und bleibt abzuwarten [
 
 [0]: https://twitter.com/TPLINKDE/status/700658775728861186
 [1]: https://twitter.com/TPLINKDE/status/700706529897394177
-[2]: http://www.heise.de/newsticker/meldung/TP-Link-Neue-offene-Firmware-fuer-laenderspezifische-Router-3112827.html
+[2]: https://www.heise.de/newsticker/meldung/TP-Link-Neue-offene-Firmware-fuer-laenderspezifische-Router-3112827.html
 
 
 #### Klarstellungen:
