@@ -13,7 +13,7 @@ Nach verschiedenen technischen Schwierigkeiten innerhalb der letzten Wochen, die
 Zwei unserer Supernodes werden uns freundlicherweise vom Freifunk Rheinland zur Verfügung gestellt. Aufgrund abgelaufener Zertifikate haben wir leider den Zugang zur Managementschnittstelle verloren. Dadurch ist es uns derzeit nicht möglich, die beiden vServer nach Ausfällen (an Weihnachten und Mitte Januar) wieder zu starten.
 
 #### Ausfall zweier weiterer Supernodes
-Wir haben zwei unserer Supernodes auf gemieteten vServern betrieben. Da beide Supernodes "überdurchschnittlich CPU- und I/O-Ressourcen in Anspruch [genommen]" haben (weiter so!), hat der Hoster zwischen Weihnachten und Neujahr beide vServer gesperrt. Leider traf uns dies mit nur zwei Stunden Vorwarnzeit während des [33. Chaos Communication Congress](https://events.ccc.de/congress/2016/wiki/Main_Page).
+Wir haben zwei unserer Supernodes auf, bei einem kommerziellen Hoster, gemieteten vServern betrieben. Da beide Supernodes "überdurchschnittlich CPU- und I/O-Ressourcen in Anspruch [genommen]" haben (weiter so!), hat der Hoster zwischen Weihnachten und Neujahr beide vServer gesperrt. Leider traf uns dies mit nur zwei Stunden Vorwarnzeit während des [33. Chaos Communication Congress](https://events.ccc.de/congress/2016/wiki/Main_Page).
 Wir haben sofort einen der beiden Server auf einen leistungsstärkeren dedizierten Server umgezogen und planen in Kürze mehrere weitere Supernodes auf dedizierter Hardware in Betrieb zu nehmen (Details folgen).
 
 #### Umzug unserer Nameserver
@@ -38,7 +38,7 @@ Weitere Supernodes befinden sich bereits im Testbetrieb. Dank der Arbeit mit Ans
 #### Finanzierung
 Leider erhöht die Migration der Supernodes von preiswerten vServern auf dedizierte Server unsere monatlichen Betriebskosten, die wir aus eigener Tasche bezahlen, erheblich.
 Unter anderem um eine langfristig stabile Finanzierung des Projekts zu ermöglichen, sind wir derzeit dabei, einen Verein zu gründen. Details dazu folgen demnächst.
-Bis dahin würden wir uns über finanzielle Unterstützung in Form von [Spenden an den Entropia e.V.](https://entropia.de/Bankverbindung) freuen.
+Bis dahin würden wir uns über finanzielle Unterstützung in Form von [Spenden an den Entropia e.V.](https://entropia.de/Bankverbindung) mit dem Verwendungszweck "Server Betriebskosten" freuen.
 
 
 Viele Grüße

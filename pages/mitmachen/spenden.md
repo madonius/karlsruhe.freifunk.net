@@ -7,12 +7,9 @@ sub_weight: 6
 permalink: /mitmachen/spenden/
 ---
 
-Zur Zeit ist es nur möglich, über den Freifunk Rheinland e.V. Geld an uns zu [spenden](https://freifunk-rheinland.net/mitmachen/spenden).
+Um eine langfristig stabile Finanzierung des Projekts zu ermöglichen, sind wir derzeit dabei, einen eigenen Verein zu gründen. Details dazu folgen demnächst.
 
-Wie das geht, erfahrt ihr auf der Webseite des Freifunk Rheinland e.V.
-
-Wir hoffen, in Kürze weitere Wege anbieten zu können, um direkt an uns zu spenden.
-
+Bis dahin würden wir uns über finanzielle Unterstützung in Form von [Spenden an den Entropia e.V.](https://entropia.de/Bankverbindung) freuen, da dieser im Augenblick einen Großteil unserer Serverkosten trägt. Bitte nutzt hierfür den Verwendungszweck "Server Betriebskosten".
 
 
 *Vielen Dank für die Unterstützung!*
