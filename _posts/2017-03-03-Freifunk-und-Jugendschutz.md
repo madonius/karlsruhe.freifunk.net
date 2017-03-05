@@ -14,7 +14,7 @@ Freifunk steht für freien Zugang zum Internet:
 + Nicht kommerziell,
 + Unzensiert,
 + Im Besitz einer Gemeinschaft und dezentral organisiert.
- 
+
 Das Einrichten von Sperr- und damit Zensurmöglichkeiten auf Netzebene ist mit diesen Grundsätzen nicht vereinbar.
 
 <!--*-->
@@ -45,6 +45,6 @@ Im Rahmen des Projektes führen kompetente Referenten publikumsgerechte Veransta
 
 Weiterführende Links:
 
-+ Chaos macht Schule - Entropia e.V. <https://entropia.de/Chaos_macht_Schule> 
++ Chaos macht Schule - Entropia e.V. <https://entropia.de/Chaos_macht_Schule>
 + Chaos macht Schule - CCC <https://ccc.de/schule>
 + Jugendschutz beim Freifunk München mit Hinweisen zu Jugendschutzmechanismen unter gängigen Betriebssystemen <https://ffmuc.net/wiki/p/Jugendschutz>
