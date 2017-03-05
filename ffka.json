@@ -1,6 +1,6 @@
 {
   "name": "Freifunk Karlsruhe",
-  "url": "http://www.freifunk-karlsruhe.de",
+  "url": "https://karlsruhe.freifunk.net",
   "location": {
     "city": "Karlsruhe",
     "country": "DE",
@@ -51,7 +51,7 @@
   ],
   "nodeMaps": [
     {
-      "url": "https://karlsruhe.freifunk.net/meshviewer/",
+      "url": "https://map.karlsruhe.freifunk.net/",
       "interval": "hourly",
       "technicalType": "meshviewer",
       "mapType": "geographical"
@@ -60,7 +60,7 @@
   "techDetails": {
     "firmware": {
       "name": "gluon",
-      "url": "https://karlsruhe.freifunk.net/firmware/",
+      "url": "https://firmware.karlsruhe.freifunk.net/",
       "vpnaccess": "fwimage"
     },
     "networks": {
