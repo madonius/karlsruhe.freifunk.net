@@ -1,0 +1,49 @@
+---
+title: Was ist Freifunk?
+permalink: /was-ist-freifunk/
+layout: page
+main_menu: true
+weight: 3
+top_url: /was-ist-freifunk/
+sub_menu: true
+sub_weight: 1
+---
+
+## Was ist Freifunk?
+Freifunk ist eine gemeinschaftliche Bewegung, die einen freien, gleichberechtigt nutzbaren Netzzugang als gesellschaftlichen Grundstein sieht. Wir verfolgen kein kommerzielles Interesse und unterstützen das Netz ehrenamtlich. Die Vision von Freifunk ist die Verbreitung freier Netzwerke, die Demokratisierung der Kommunikationsmedien und die Förderung lokaler Sozialstrukturen. Freifunk finanziert sich ausschließlich über Spenden und lebt von der Beteiligung engagierter Menschen.
+
+Freie Netze werden von immer mehr Menschen in Eigenregie aufgebaut und gewartet. Alle aktiv am Freifunk-Netz Teilnehmenden stellen ihre WLAN-Router für den Datentransfer der Allgemeinheit zur Verfügung. Dabei können sie natürlich auch selbst Daten über das Freifunk-Netz übertragen oder über von anderen Teilnehmenden eingerichtete Dienste im Netz chatten oder telefonieren. Die Nutzung des Freifunk-Netzes ist allerdings keineswegs auf die aktiven Mitglieder der Initiativen beschränkt. Freifunk-Netze sind so aufgebaut, dass sie - ein WLAN-fähiges Endgerät vorausgesetzt - von Allen ohne Registrierung und ohne künstliche Zugangsbeschränkungen genutzt werden können.
+
+Als eine unserer zentralen Aufgaben sehen wir es, Gebäude, Straßen, Stadtteile oder gar ganze Dörfer und Städte miteinander zu vernetzen und so ein freies, dezentral aufgebautes und unabhängiges Mitmachnetz zu schaffen. Benachbarte Router, die mit der Freifunk-Software betrieben werden, bauen dabei untereinander das Freifunk-Netzwerk auf, durch das sie auf direktem Wege Daten austauschen können, ohne den Umweg über das Internet zu nehmen. Diese Funkverbindungen können je nach Modell Entfernungen von einigen dutzend Metern bis hin zu mehreren Kilometern überbrücken und so auch Gebiete erreichen, die nur rudimentär oder gar nicht an das Internet angeschlossen sind. Der Austausch in den freien Netzen basiert dabei nicht auf kommerziellen Interessen, sondern auf dem freiwilligen Geben und Nehmen jeder und jedes Einzelnen im Netzwerk. Der Zugang zum Freifunk-Netzwerk ist mit jedem WLAN-fähigen Endgerät ohne Registrierung oder Passwort möglich. Außerdem erfolgt der Zugang diskriminierungs- und barrierefrei, d.h. jeder kann unabhängig von sozialem Status, Ansehen oder Einkommen das Netz zeitlich unbegrenzt und uneingeschränkt nutzen.
+
+## Wer frei funkt, muss hoch hinaus!
+Zum Aufbau eines unabhängigen und krisensicheren Netzes sind wir auf höher gelegene Standorte zum Aufbau von Richtfunkstrecken angewiesen. Solltest Du Zugang zu einem höheren Gebäude und Interesse an Freifunk haben, würden wir uns freuen, von Dir zu hören. Keine Angst - wir werden deinen Balkon nicht mit unzähligen Geräten zuhängen.
+
+## Ziele von Freifunk
+Freifunk Karlsruhe möchte freie, unabhängige Bürgernetze aufbauen und bietet dafür Weiterbildung und den technischen Erfahrungsaustausch an. In der Kooperation mit Kommunen, Sozialverbänden und Vereinen werden lokale Communities aufgebaut und miteinander vernetzt.
+
+#### Unsere Ziele
+- Aufklärung und Sensibilisierung zum Thema Kommunikationsfreiheit
+- Verminderung der digitalen Spaltung
+- Ungehinderte Verbreitung von Wissen und Ressourcen
+- Menschen dazu befähigen, eigene Netze aufzubauen und zu betreiben
+- Vorhandene und neue Sozialstrukturen fördern und vernetzen
+
+## Was macht ein freies Netz aus?
+Im Gegensatz zu kommerziellen Anbietern, die primär an der Vermarktung von für Betreiber oder Nutzer kostenplichtigen Hotspots interessiert sind, ist uns der Aufbau eines unabhängigen Kommunikationsnetzes wichtiger. Aus diesem Grund, ermöglicht die Freifunk-Software die direkte Kommunikation zwischen nahe beieinanderstehenden Routern ohne den Umweg über das Internet. Auch im Falle eines Ausfalls herkömmlicher Infrastruktur ist ein solches Freifunk-Netz mit direkter Kommunikation zwischen den teilnehmenden Geräten weiterhin nutzbar. Wir verstehen frei als
+<ul>
+<li>öffentlich und ohne Registrierung zugänglich</li>
+<li>nicht kommerziell und unzensiert</li>
+<li>im Besitz einer Gemeinschaft und dezentral organisiert</li>
+</ul>
+
+## Die Arbeit der aktiven Freifunker
+Viele kluge Köpfe haben sich in Freifunk-Projekten organisiert, unterstützen und helfen neuen Mitstreitern oder engagieren sich, indem sie Webseiten über Freifunk ins Netz stellen und Informationsmaterial zum Thema freie Netze produzieren. Die im deutschsprachigen Raum sehr verbreitete Freifunk-Initiative ist Teil einer weilweiten Bewegung für offene Datennetze.
+
+Zudem bieten Freifunker*innen auf ihren regelmäßigen Treffen für Aktive und Interessierte ein Forum für Weiterbildung und zum Erwerb von praktischen Erfahrungen, Maßnahmen zum sicheren Umgang und dem tieferen Verständnis der Funktionsweise von Kommunikationsinfrastruktur an. Auf der regelmäßig stattfindenden gemeinsamen Konferenz hessischer Freifunk-Communities wird zudem eine Plattform zum Austausch zu aktuellen Entwicklungen und Problemstellungen beim Betrieb unabhängiger, krisensicherer Netze geboten.
+
+In vielen Freifunk-Communities findet zudem eine aktive Weiterentwicklung von quelloffener Software statt, die zum Aufbau eines von herkömmlicher Infrastruktur unabhängigen Datennetzes, dem sogenannten "Mesh-Netzwerk", genutzt wird. Teilnehmende Geräte im Mesh-Netzwerk leiten Daten automatisch und unpriorisiert über Funkverbindungen zwischen den Routern zum gewünschten Ziel. Die entwickelte Software wird dabei unter einer freien Lizenz veröffentlicht und steht damit jedem kostenfrei und ohne Einschränkungen in der Nutzung zur Verfügung.
+
+## Geschichte von Freifunk Karlsruhe
+2014 fand im Rahmen der [Gulaschprogrammiernacht 14](https://entropia.de/GPN14) ein Treffen interessierter zum Thema Freifunk in Karlsruhe statt. Daraus ging hervor, dass man sich organisieren möchte, um Freifunk in Karlsruhe zu beginnen.
+Am 26. Juni 2014 fand das erste Treffen in den Räumen des Entropia statt. Es wurde beschlossen, dass man sich aus organisatorischen sowie rechtlichen Gründen dem Freifunk Rheinland e. V. anschließt. Aktuell gibt es bereits mehr als 400 offene Zugangspunkte zum Netz, dass täglich von über 900 gleichzeitig aktiven Nutzern genutzt wird und das nicht nur in Karlsruhe selber, sondern auch in den Communities im [Ortenaukreis](https://ortenau.freifunk.net), in [Pforzheim](https://wiki.freifunk.net/Freifunk_Pforzheim), in [Hohenlohe](https://wiki.freifunk.net/Freifunk_Hohenlohe) und erstaunlicherweise [Mittelhessen](http://mittelhessen.freifunk.net). Jeden Monat werden so über 70 Terabyte an Daten durch unser Netz bewegt.
