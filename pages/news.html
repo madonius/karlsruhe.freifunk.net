@@ -61,14 +61,12 @@ top_url: /news/
     {% include footer.html %}
 
    <script>
-	   /*
 	   moment.locale('de');
-	   interval = moment( "2017-02-09" ).recur().every(2).weeks();
-	   now = moment(new Date());
+	   interval = moment( "2017-07-06" ).recur().every(2).weeks();
 	   interval.fromDate(new Date());
 	   nextDate = moment(new Date(interval.next(1)));
 	
-	   if (nextDate.isSame(now, 'day')) {
+	   if (interval.matches(new Date())) {
 		   nextDateStr = "heute";
 	   } else {
 		
@@ -80,7 +78,6 @@ top_url: /news/
 		   nextDateStr += nextDate.format("dddd") + ", den " + nextDate.format("DD. MMMM");
 	   }
 	   $('#nextMeetingTime').text(nextDateStr);
-	   */
   </script>
 
   </body>
