@@ -5,7 +5,7 @@ date:   2017-10-10 00:00:00
 categories: community
 ---
 
-Am 19.10.2017 wird um 19:00Uhr die Ausstellung 'Open Codes' im [ZKM](http://www.zkm.de) eröffnet. An der der
+Am 19.10.2017 wird um 19:00Uhr die Ausstellung 'Open Codes' im [ZKM](http://www.zkm.de) eröffnet. An der unter Anderem der
 [Entropia](https://entropia.de) beteiligt ist.
 
 Wir, als Projekt des Entropia, werden selbstverständlich auch vor Ort sein und den Besuchern der Eröffnung
